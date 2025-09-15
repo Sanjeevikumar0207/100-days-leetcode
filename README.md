@@ -12,13 +12,14 @@ The goal is to solve one problem per day and gradually increase the difficulty a
 🔝 From Day 61–Day 100: Solve harder problems and combine DSA knowledge.
 
 💡 By the end of 100 days: Have a solid understanding of Python and DSA, with 100 solutions ready on GitHub as a portfolio.
-| Day | Problem | Solution |
-|-----|----------|----------|
-| 1   | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Day01_RunningSum.py](Day01_RunningSum.py) |
-| 2   | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Day02_MaximumWealth.py](Day02_MaximumWealth.py) |
-| 3   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Day03_LengthOfLastWord.py](Day03_LengthOfLastWord.py) |
-| 4   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Day04_NumberOfSteps.py](Day04_NumberOfSteps.py) |
-| 5   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Day05_DefangingIPAddress.py](Day05_DefangingIPAddress.py) |
+| Day | Problem | Category | Solution |
+|-----|----------|-----------|----------|
+| 1   | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Day01_RunningSum.py](Day01_RunningSum.py) |
+| 2   | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [Day02_MaximumWealth.py](Day02_MaximumWealth.py) |
+| 3   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Day03_LengthOfLastWord.py](Day03_LengthOfLastWord.py) |
+| 4   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [Day04_NumberOfSteps.py](Day04_NumberOfSteps.py) |
+| 5   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | [Day05_DefangingIPAddress.py](Day05_DefangingIPAddress.py) |
+
 
 
 📌 How I Solve Each Problem
